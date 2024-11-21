@@ -6,7 +6,7 @@ namespace Veterinaria
 {
     class Program
     {
-        // Arreglos estáticos de las clases
+        
         static Mascota[] mascotas = new Mascota[100];
         static Servicio[] servicios = new Servicio[100];
         static Boleta[] boletas = new Boleta[100];
